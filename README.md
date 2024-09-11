@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 
 Hello, My name is Nguyễn Khánh Hưng. I am from Ho Chi Minh City Open University and majoring in Computer Science.
 
-I am interested in becoming a Network Security Specialist, inspiring me to learn about Networking, Ethical Hacking and other branch of C Sharp Developing.  
+I am interested in becoming a Network Security Specialist, inspiring me to learn about Networking, Ethical Hacking, and another branch of C Sharp Language.  
 
 - 🌱 I’m currently learning C Sharp
 - 📫 How to reach me: Hung Nguyen (Linkedin, Instagram, Telegram)
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: My name is my father's name with an additional word :>
+
